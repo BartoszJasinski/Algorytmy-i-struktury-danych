@@ -1,0 +1,14 @@
+﻿Build started 2015-10-15 21:13:46.
+     1>Project "c:\Users\bartosz\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Downloads\dictionary.cpp
+         dictionary.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\bartosz\documents\visual studio 2015\Projects\ConsoleApplication12\Debug\ConsoleApplication12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\bartosz\documents\visual studio 2015\Projects\ConsoleApplication12\Debug\ConsoleApplication12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\bartosz\documents\visual studio 2015\Projects\ConsoleApplication12\Debug\ConsoleApplication12.lib" /MACHINE:X86 Debug\dictionary.obj
+         Debug\main.obj
+         ConsoleApplication12.vcxproj -> c:\users\bartosz\documents\visual studio 2015\Projects\ConsoleApplication12\Debug\ConsoleApplication12.exe
+     1>Done Building Project "c:\Users\bartosz\documents\visual studio 2015\Projects\ConsoleApplication12\ConsoleApplication12\ConsoleApplication12.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43

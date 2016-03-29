@@ -1,0 +1,13 @@
+h:\windows7\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe.config
+h:\windows7\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe
+h:\windows7\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.pdb
+h:\windows7\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10\bin\Debug\Graph.dll
+h:\windows7\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.csprojResolveAssemblyReference.cache
+h:\windows7\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.exe
+h:\windows7\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.pdb
+C:\Users\bartosz\Documents\Visual Studio 2015\Projects\AISD2\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe.config
+C:\Users\bartosz\Documents\Visual Studio 2015\Projects\AISD2\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.exe
+C:\Users\bartosz\Documents\Visual Studio 2015\Projects\AISD2\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.pdb
+C:\Users\bartosz\Documents\Visual Studio 2015\Projects\AISD2\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.exe
+C:\Users\bartosz\Documents\Visual Studio 2015\Projects\AISD2\ConsoleApplication10\ConsoleApplication10\bin\Debug\ConsoleApplication10.pdb
+C:\Users\bartosz\Documents\Visual Studio 2015\Projects\AISD2\ConsoleApplication10\ConsoleApplication10\obj\Debug\ConsoleApplication10.csprojResolveAssemblyReference.cache
